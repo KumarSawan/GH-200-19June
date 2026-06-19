@@ -5,5 +5,5 @@ jobs:
      runs-on: ubuntu-latest
      steps:
        - name: say Hello
-         run: "hello sawan"
+         run: echo "hello sawan"
   
