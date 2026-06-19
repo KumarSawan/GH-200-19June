@@ -1,0 +1,9 @@
+name: GH200Hack
+on: push
+jobs:
+  hello-word:
+     runs-on: ubuntu-latest
+     steps:
+       - name: say Hello
+         run: "hello sawan"
+  
